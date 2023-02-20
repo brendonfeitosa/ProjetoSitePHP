@@ -4,3 +4,5 @@
  ![Logo PHP](./Site/Imagens/logo_php.png)
 
  O site será criado para testar os conhecimentos adquiridos na disciplica de PHP da Fatec.
+ 
+ Este projeto será ultil também para treinar os  conceitos de git.
