@@ -5,4 +5,4 @@
 
  O site será criado para testar os conhecimentos adquiridos na disciplica de PHP da Fatec.
  
- Este projeto será ultil também para treinar os conceitos de **GIT**.
+ Este projeto será ultil também para treinar os  conceitos de git.
