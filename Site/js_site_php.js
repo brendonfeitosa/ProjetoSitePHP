@@ -1,1 +1,1 @@
-window.alert("Site usando PHP")
+window.alert("Vamos começar o site em PHP")
